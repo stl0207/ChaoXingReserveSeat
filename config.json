@@ -4,7 +4,7 @@
         "password": "stl1415926",
         "time": ["9:30","21:30"],
         "roomid":"6656",
-        "seatid":["066"],
+        "seatid":["096"],
         "daysofweek": ["Monday" , "Tuesday", "Wednesday", "Thursday", "Friday","Saturday","Sunday"]
     }
     ]
